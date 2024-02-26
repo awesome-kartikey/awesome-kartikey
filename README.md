@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey+Everyone!&fontAlign=50&fontAlignY=40&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Let's+build+something+awesome+together!!&fontAlign=50&fontAlignY=40&color=gradient"/>
 </p>
 
 <!--
