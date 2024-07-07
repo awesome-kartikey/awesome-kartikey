@@ -82,7 +82,7 @@ Highly motivated and versatile full-stack developer with strong proficiency in f
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=awesome-kartikey&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-     [![Kartikey GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome-kartikey&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--      [![Kartikey GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome-kartikey&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
 ## 🔗 Links
