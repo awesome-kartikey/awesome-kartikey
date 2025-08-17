@@ -1,29 +1,21 @@
-### Hi there 👋
+
+# 👋 Hi, I'm Kartikey Kumar
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Let's+collaborate!&fontAlign=50&fontAlignY=40&color=gradient"/>
 </p>
 
-<!--
-**awesome-kartikey/awesome-kartikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+## 👋 About Me
 
-- 🔭 I’m currently working on **My journey to become a full-stack web developer.**
-- 🌱 I’m currently learning **Advanced React and Node.js to enhance my full-stack development skills.**
-- 👯 I’m looking to collaborate on **Personal open-source MERN stack projects to gain experience and contribute to the community.**
-- 🤔 I’m looking for help with **Creating real-time web applications, where I can leverage my knowledge of Javascript (ES6) and explore new technologies.**
-- 💬 Ask me about **My experience with web development, including Javascript (ES6), HTML, CSS, React, Frontend & Backend Frameworks, including C/C++ and Python.**
-- 📫 How to reach me: **kartikeykumar.onglobe@gmail.com**
-- 😄 Pronouns: ... **He**
-- ⚡ Fun fact: ... **I also know a lot about Hindu Scriptures and Astrology!**
+Hi, I'm **Kartikey Kumar**—a full-stack developer based in Roorkee, India. I specialize in crafting scalable, user-centric web apps using **React, Next.js 14, Node.js, TypeScript, and Python**. I've contributed to AI model training at Remotasks, built SaaS products, and love turning challenging requirements into elegant UX and high-performance code. I'm actively seeking remote opportunities on innovative product teams. Currently exploring system design and building AI-powered SaaS products.
 
-Highly motivated and versatile full-stack developer with strong proficiency in front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, Django, Python) technologies. Possesses experience with various databases (MySQL, PostgreSQL, MongoDB) and utilizes Git for efficient version control. Adaptable to Agile and Waterfall development methodologies, and demonstrates strong time management skills through effective task prioritization. Eager to contribute to a collaborative team environment and continuously learn new technologies to stay at the forefront of web development.
+## ✨ Featured Projects
 
-**[Portfolio](https://iamkartikey.netlify.app/)**
-
-**[LinkedIn](https://www.linkedin.com/in/kartikey-kumar/)**
-
+| Project      | Description                                             | Tech Stack                   | Links                                                    |
+| ------------ | ------------------------------------------------------- | ---------------------------- | -------------------------------------------------------- |
+| VideoToBlog  | Real-time AI-powered language learning SaaS             | Next.js, Node.js, OpenAI     | [Repo](https://github.com/awesome-kartikey/speakEasyAI)  |
+| Dev Overflow | Q&A platform for developers, inspired by Stack Overflow | Next.js, Supabase, LangChain | [Repo](https://github.com/awesome-kartikey/dev-overflow) |
+| Notion Clone | Productivity app with collaborative docs & drag blocks  | React, Firebase, Slate.js    | [Repo](https://github.com/awesome-kartikey/notion-clone) |
 ## 🛠️ Skills
 
 ### 🚀 &nbsp;Some Tools I Have Used and Learned
@@ -69,27 +61,51 @@ Highly motivated and versatile full-stack developer with strong proficiency in f
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 🖥️ Workspace Setup
+---
+
+## 🖥️ Workspace
 
 ![i5-12th-gen](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3050](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+Let’s Connect & Collaborate
 
 
-## 📈 Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=awesome-kartikey&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-<!--      [![Kartikey GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome-kartikey&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
 
-## 🔗 Links
+## 📊 GitHub Stats
+<!-- start of snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/awesome-kartikey/awesome-kartikey/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+<!-- end of snake animation -->
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://iamkartikey.netlify.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://iamkartikey.netlify.app/assets/Kartikey%20Resume.pdf)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kartikey-kumar/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/awesome-kartikey)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kartikeykumar.onglobe@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awesome_kartikey)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=awesome-kartikey&theme=darkhub&no-frame=true&row=1&column=6" alt="profile trophies" /> <br/> <img src="https://github-readme-stats.vercel.app/api?username=awesome-kartikey&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" /> </div>
+
+
+
+I'm looking to join **remote teams** and collaborate on open-source full-stack and AI projects.  
+Feel free to reach out!
+
+- 📧 Email: [kartikeykumar.onglobe@gmail.com](mailto:kartikeykumar.onglobe@gmail.com)
+    
+- 🌐 Portfolio: [iamkartikey.vercel.app](https://iamkartikey.vercel.app/)
+    
+- 💼 LinkedIn: [kartikey-kumar](https://www.linkedin.com/in/kartikey-kumar/)
+    
+- 🐙 GitHub: [awesome-kartikey](https://github.com/awesome-kartikey)
+    
+- 📄 Resume: [Download PDF](https://iamkartikey.vercel.app/Kartikey_Kumar_Resume.pdf)
+
+## ⚡ Fun Fact
+
+Besides coding, I love exploring **Hindu scriptures and Vedic astrology**—so I can debug your life as well as your code!
+
+
+
+<!--
+**awesome-kartikey/awesome-kartikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
