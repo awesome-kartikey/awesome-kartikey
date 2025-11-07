@@ -102,6 +102,7 @@ Feel free to reach out!
 
 Besides coding, I love exploring **Hindu scriptures and Vedic astrology**—so I can debug your life as well as your code!
 
+[![An image of @awesomekartikey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awesomekartikey)](https://holopin.io/@awesomekartikey)
 
 
 <!--
